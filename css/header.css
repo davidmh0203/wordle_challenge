@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  height: 49px;
+  border: 1px solid #d3d6da;
+}
+
+header img {
+  width: 32px;
+}
+
+.page-title {
+  align-self: center;
+  margin-left: 100px;
+  font-weight: bold;
+}
+
+.setting img {
+  margin-right: 15px;
+}
